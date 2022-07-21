@@ -8,3 +8,8 @@
 <p>
 	The result of the simulation matches the mathematical hypothesis,  explicitly shows switch the original choice will result a double probability to win. This program is also friendly to add more features to the current specifications, by modifying the constants, and change the data type of the parameters, specifically, a boolean to an integer. 
 </p>
+<p>
+To run this program:
+Run the simulation: Create a java project and import these java files into the project. Run the App.java file will print out the data in command line, also it creates a file with those data. 
+Run the visualization: After run the simulation, place the resulted *.txt file with the python file into the same directory, and don't forget to install numpy and matplotlib with your python. Run the python file will show the plots in pop-up windows.
+</p>
