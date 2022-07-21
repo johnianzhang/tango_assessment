@@ -1,0 +1,10 @@
+Total simulations: 2000
+Total number of the contastent chooses switch: 1000
+Total number of the contastent chooses stay: 1000
+Total number of wins: 1019
+Number of wins chose switch: 681
+Number of wins chose stay: 338
+Winning rate: 0.510
+Winning rate chose switch: 0.681
+Winning rate chose stay: 0.338
+Winning rate ratio: stay:switch = 1:2
