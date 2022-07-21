@@ -1,4 +1,4 @@
-# tango_assessment
+<h1> tango_assessment</h1>
 
  	Mathematically, we hypothesized the result is the contestant switching their original choice will result a double chance to win the price, and the paradigm of solving is do a paradigm shift to think the game process reversely. Base on that, a simulation was built to imitate the game, and play the game 2000 times and analyze the result.
 	
