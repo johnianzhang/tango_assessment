@@ -13,7 +13,7 @@ To run this program:
 Run the simulation: Create a java project and import these java files into the project. Run the App.java file will print out the data in command line, also it creates a file with those data. 
 Run the visualization: After run the simulation, place the resulted *.txt file with the python file into the same directory, and don't forget to install numpy and matplotlib with your python. Run the python file will show the plots in pop-up windows.
 
-Do not copy briefcase_simulation_result_1.txt into the java project src folder, it is a sample run result for the reference of the report. You will get a new txt file after you run the simulation.
+Please do not copy briefcase_simulation_result_1.txt into the java project src folder, it is a sample run result for the reference of the report. You will get a new txt file after you run the simulation.
 </p>
 <p>
 There is also an Android project for this small game. Goto: <a href="https://github.com/johnianzhang/Tango_Briefcase_Game">https://github.com/johnianzhang/Tango_Briefcase_Game</a>
